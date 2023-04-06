@@ -1,0 +1,4 @@
+data/
+*.fai
+__pycache__/
+*.pyc
